@@ -1,12 +1,9 @@
 /**
  * @name Bubble
- * @author Phoenix
+ * @author Phoenixduhh
  * @version 6.3.0
- * @description Js a theme
+ * @description Bubble theme based using ClearVision V6 
  * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
- * @invite 7pNUC9C
- * @BDEditor Clear Vision
 */
 
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
@@ -20,7 +17,7 @@
   --danger-color: #982929;
   --url-color: var(--main-color);
   --undefined: 0;
-  --background-image: url('https://i.imgur.com/n3Ip44d.jpg');
+  --background-image: url('https://i.imgur.com/svEDVUS.jpg');
   --background-shading: 0%;
   --background-position: center;
   --background-size: cover;
